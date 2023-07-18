@@ -1,8 +1,0 @@
-C:\Users\talae\OneDrive\Рабочий стол\MyProject\C#Projects\HomeWork4.8\HomeWork4.8(3)\obj\Debug\HomeWork4.8(3).csproj.AssemblyReference.cache
-C:\Users\talae\OneDrive\Рабочий стол\MyProject\C#Projects\HomeWork4.8\HomeWork4.8(3)\obj\Debug\HomeWork4.8(3).csproj.SuggestedBindingRedirects.cache
-C:\Users\talae\OneDrive\Рабочий стол\MyProject\C#Projects\HomeWork4.8\HomeWork4.8(3)\obj\Debug\HomeWork4.8(3).csproj.CoreCompileInputs.cache
-C:\Users\talae\OneDrive\Рабочий стол\MyProject\C#Projects\HomeWork4.8\HomeWork4.8(3)\bin\Debug\HomeWork4.8(3).exe.config
-C:\Users\talae\OneDrive\Рабочий стол\MyProject\C#Projects\HomeWork4.8\HomeWork4.8(3)\bin\Debug\HomeWork4.8(3).exe
-C:\Users\talae\OneDrive\Рабочий стол\MyProject\C#Projects\HomeWork4.8\HomeWork4.8(3)\bin\Debug\HomeWork4.8(3).pdb
-C:\Users\talae\OneDrive\Рабочий стол\MyProject\C#Projects\HomeWork4.8\HomeWork4.8(3)\obj\Debug\HomeWork4.8(3).exe
-C:\Users\talae\OneDrive\Рабочий стол\MyProject\C#Projects\HomeWork4.8\HomeWork4.8(3)\obj\Debug\HomeWork4.8(3).pdb
